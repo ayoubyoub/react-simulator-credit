@@ -4,17 +4,13 @@
 
 Drag sliders and get an accurate loan amount.
 
-## Demo
-
-https://codepen.io/GavBarosee/pen/PVwMvG
-
 ## Installation
 
 ### Setup
 
 ```sh
-git clone https://github.com/GavBaros/react-loan-calculator.git
-cd react-loan-calculator
+git clone https://github.com/ayoubyoub/react-simulator-credit.git
+cd react-simulator-credit
 npm install
 npm start
 ```
